@@ -6,5 +6,9 @@ Basic learn
 2. Thonny
 3. CH341 (2019 ver 3.5)
 
-### Reference
+# Reference
 1. flag.com
+
+# TODO
+1. Adding Circuit image
+2. Adding Demo Video
