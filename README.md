@@ -8,7 +8,3 @@ Basic learn
 
 # Reference
 1. flag.com
-
-# TODO
-1. Adding Circuit image
-2. Adding Demo Video
