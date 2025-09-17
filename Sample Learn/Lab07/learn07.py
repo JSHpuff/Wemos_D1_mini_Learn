@@ -8,6 +8,6 @@ while True:
         LED.duty(i)
         time.sleep(0.01)
     
-    for i in range(1023, 0, -10):
+    for i in range(1023, -1, -10):
         LED.duty(i)
         time.sleep(0.01)
